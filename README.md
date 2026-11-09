@@ -32,9 +32,12 @@ Deployed Wazuh on an Ubuntu virtual machine and connected a Windows endpoint usi
 ### 1. Wazuh SIEM Installation
 
 - Installed Ubuntu Linux in VirtualBox.
+<img width="442" height="404" alt="image" src="https://github.com/user-attachments/assets/2ec00d40-a182-4196-9e38-dac9caf5e190" />
 - Installed Wazuh Manager, Wazuh Indexer, and Wazuh Dashboard.
 - Troubleshot service configuration and certificate issues.
 - Configured network connectivity for endpoint communication.
+
+<img width="434" height="416" alt="image" src="https://github.com/user-attachments/assets/e04c8678-eb00-4536-9d81-ac5267b9ba32" />
 
 ### 2. Windows Agent Deployment
 
