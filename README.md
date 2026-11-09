@@ -32,21 +32,28 @@ Deployed Wazuh on an Ubuntu virtual machine and connected a Windows endpoint usi
 ### 1. Wazuh SIEM Installation
 
 - Installed Ubuntu Linux in VirtualBox.
-<img width="442" height="404" alt="image" src="https://github.com/user-attachments/assets/2ec00d40-a182-4196-9e38-dac9caf5e190" />
+<img width="434" height="416" alt="image" src="https://github.com/user-attachments/assets/e04c8678-eb00-4536-9d81-ac5267b9ba32" />
 
 - Installed Wazuh Manager, Wazuh Indexer, and Wazuh Dashboard.
 - Troubleshot service configuration and certificate issues.
 - Configured network connectivity for endpoint communication.
 
-<img width="434" height="416" alt="image" src="https://github.com/user-attachments/assets/e04c8678-eb00-4536-9d81-ac5267b9ba32" />
+<img width="924" height="421" alt="image" src="https://github.com/user-attachments/assets/72b1e63a-066e-4fd5-99c2-d0946b48c5ee" />
+
 
 ### 2. Windows Agent Deployment
 
 - Installed Wazuh Agent 4.14.10 on Windows.
 - Configured the agent to communicate with the Wazuh server.
+
+<img width="239" height="207" alt="image" src="https://github.com/user-attachments/assets/5f563102-5769-4981-b074-655344e805f9" />
+
 - Enrolled the endpoint using `agent-auth.exe`.
 - Successfully received an enrollment key.
 - Verified the endpoint appeared as active in the Wazuh Dashboard.
+
+<img width="926" height="330" alt="image" src="https://github.com/user-attachments/assets/9e53968b-8ee3-4969-902f-cbeef2376ea1" />
+
 
 ### 3. Security Event Generation
 
