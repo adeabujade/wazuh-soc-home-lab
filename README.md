@@ -65,6 +65,9 @@ Identified and investigated:
 
 Used Wazuh Threat Hunting to locate and examine the event.
 
+<img width="356" height="383" alt="image" src="https://github.com/user-attachments/assets/1a3f655c-4128-48f2-810a-96dc4e45dfe5" />
+
+
 Search query:
 
 ```text
