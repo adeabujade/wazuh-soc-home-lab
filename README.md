@@ -1,5 +1,7 @@
 # Wazuh SIEM SOC Home Lab
 
+<img width="275" height="242" alt="image" src="https://github.com/user-attachments/assets/e75d8fc8-ec52-42e0-9f9c-5f5737d0e1c9" />
+
 ## Project Overview
 
 Built a hands-on Security Operations Center (SOC) home lab using Wazuh SIEM to monitor Windows endpoint activity, collect security events, and investigate authentication failures.
